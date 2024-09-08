@@ -1,0 +1,11 @@
+# Ignore the default output file `a.out` (in any folder)
+**/a.out
+
+# Ignore any executable without an extension (in any folder)
+**/*.[^c]
+
+# Ignore all object files (in any folder)
+**/*.o
+
+# Optionally, ignore any core dumps (in any folder)
+**/core
