@@ -9,3 +9,6 @@
 
 # Optionally, ignore any core dumps (in any folder)
 **/core
+
+# Remove vscode config
+.vscode
