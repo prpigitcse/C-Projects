@@ -2,9 +2,7 @@
 **/a.out
 
 # Ignore any executable without an extension (in any folder)
-*
-!*/
-!*.*
+**/[!.]*
 
 # Ignore all object files (in any folder)
 **/*.o
